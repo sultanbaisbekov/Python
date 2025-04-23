@@ -1,3 +1,0 @@
-Go to school | True
-Eat apple | False
-do homework | True
