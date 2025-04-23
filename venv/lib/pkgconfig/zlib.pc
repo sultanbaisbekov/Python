@@ -1,0 +1,13 @@
+prefix=/home/sultan/Desktop/data analytics/python/venv
+exec_prefix=/home/sultan/Desktop/data analytics/python/venv
+libdir=/home/sultan/Desktop/data analytics/python/venv/lib
+sharedlibdir=/home/sultan/Desktop/data analytics/python/venv/lib
+includedir=/home/sultan/Desktop/data analytics/python/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
